@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PowerPlantTable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PowerPlantTable\ here.\r\n\r\n\ @author\ (Emmanuel\ Duru)\r\n\ @version\ (13.04.2020)\r\n
+comment1.params=name
+comment1.target=PowerPlantTable(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PowerPlantTable\r\n
+comment2.params=powerStation
+comment2.target=void\ addPowerStation(PowerPlant)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=double\ getTotalPower()
+comment4.params=
+comment4.target=void\ intList()
+comment5.params=country
+comment5.target=void\ listPowerPlants(java.lang.String)
+comment5.text=\r\n\ List\ all\ power\ plants\ whose\ country\ match\ the\ search\ country\r\n\ @param\ country\ of\ power\ plants\ to\ be\ listed\r\n
+comment6.params=country
+comment6.target=java.util.HashSet\ findPowerPlants(java.lang.String)
+comment7.params=
+comment7.target=void\ printTable()
+numComments=8

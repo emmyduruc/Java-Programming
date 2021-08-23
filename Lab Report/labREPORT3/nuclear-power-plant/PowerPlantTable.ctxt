@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=PowerPlantTable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PowerPlantTable\ here.\r\n\r\n\ @author\ (Emmanuel\ Duru)\r\n\ @version\ (13.04.2020)\r\n
+comment1.params=name
+comment1.target=PowerPlantTable(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PowerPlantTable\r\n
+comment10.params=country
+comment10.target=void\ listPowerPlants(java.lang.String)
+comment10.text=\r\n\ List\ all\ power\ plants\ whose\ country\ match\ the\ search\ country\r\n\ @param\ country\ of\ power\ plants\ to\ be\ listed\r\n
+comment11.params=country
+comment11.target=java.util.HashSet\ findPowerPlants(java.lang.String)
+comment12.params=
+comment12.target=void\ printTable()
+comment2.params=powerStation
+comment2.target=void\ addPowerStation(PowerPlant)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=double\ getTotalPower()
+comment4.params=
+comment4.target=void\ intList()
+comment5.params=
+comment5.target=void\ listByCountry()
+comment6.params=
+comment6.target=java.util.HashMap\ powerByCountry()
+comment6.text=\r\n\ method\ to\ indicate\ the\ PowerByCountry\r\n\ returns\ HashMap\ total\ power\r\n
+comment7.params=totalPower
+comment7.target=void\ printCapacity(java.util.HashMap)
+comment7.text=\r\n\ actualization\ of\ printCapacity\r\n\r\n\ HashMap,\ defining\ the\ countries\ and\ its\ capacities\r\n
+comment8.params=
+comment8.target=java.util.HashMap\ mapByCountry()
+comment8.text=\r\n\ information\ stating\ the\ mapByCountry\r\n\r\n\ HashMap.\ key\ \=\ String(countries)\ and\ Value\=\ HashSet\ (all\ windFarms\ located\ in\ this\ country).\r\n
+comment9.params=powerMap
+comment9.target=void\ printMap(java.util.HashMap)
+numComments=13
